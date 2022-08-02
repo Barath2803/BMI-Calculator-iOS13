@@ -23,6 +23,8 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 
 ## Output
 
+<img src="Documentation/OutputSS1.png" width=200>
+
 ![Output ScreenShot of Home Page](Documentation/OutputSS1.png)
 ![Output ScreenShot of Result Page](Documentation/OutputSS2.png)
 
