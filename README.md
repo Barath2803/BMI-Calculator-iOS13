@@ -21,6 +21,11 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 * Color literals.
 
 
+## Output
+
+![Output ScreenShot of Home Page](Documentation/OutputSS1.png)
+![Output ScreenShot of Result Page](Documentation/OutputSS2.png)
+
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
