@@ -24,9 +24,7 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 ## Output
 
 <img src="Documentation/OutputSS1.png" width=200>
-
-![Output ScreenShot of Home Page](Documentation/OutputSS1.png)
-![Output ScreenShot of Result Page](Documentation/OutputSS2.png)
+<img src="Documentation/OutputSS2.png" height=200>
 
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
